@@ -1,0 +1,34 @@
+{
+  "name": "kato-music",
+  "version": "2.0.0",
+  "description": "Discord Bot Template, only for Perkumpulan Orang Santai.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "dateformat": "^3.0.3",
+    "discord-player": "^2.3.1",
+    "discord.js": "^12.2.0",
+    "moment": "^2.27.0",
+    "moment-duration-format": "^2.3.2",
+    "nekos.life": "^2.0.7",
+    "node-fetch": "^2.6.0",
+    "node-superfetch": "^0.1.10"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "license": "MIT",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KatowProject/mKato-Bot.git"
+  },
+  "author": "KatowProject",
+  "bugs": {
+    "url": "https://github.com/KatowProject/mKato-Bot/issues"
+  },
+  "homepage": "https://github.com/KatowProject/mKato-Bot#readme"
+}
