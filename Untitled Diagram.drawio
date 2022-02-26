@@ -1,1 +1,89 @@
-<mxfile host="app.diagrams.net" modified="2022-02-25T14:51:31.699Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.56" etag="DxYZwJW3hTd8MHyX_CQj" version="16.6.4" type="github"><diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">7Zxdk6I4FIZ/jbdTfAcv1dGZrZqp3Vq3aq8jRMx0IFQI2s6v39AGBeJ0ua2bgIs3TU4CITlPv5wcohN3kb5+YTDffacxIhPHil8n7ueJ49ieFYo/leV4sgBPGhKGY9noYljjn0gaLWktcYyKVkNOKeE4bxsjmmUo4i0bZIwe2s22lLR7zWGCFMM6gkS1/o1jvpNWO5heKr4inOxk16EDThUbGL0kjJaZ7C+jGTrVpLC+jBxjsYMxPTRM7nLiLhil/HSUvi4Qqaa1nrHTeatf1J5vmaGM33QC8PzTOXtISjlweWv8WM8EisXEyOLbYNz52/BQdRVLlH6Uad5psOMpESVbHJ4HWTUlcIPI/DxDC0oou5xVcMj4rHJex7bChMgroCyuW0QEFgWOTkbZpOrxB+L8KImCJafCRBnf0YRmkHyjNK/vjDP6gup7mDius/LnYHGuqf3uCsuWZnwFU0wqnL8iskccR1BWyL7sQJabl3Q9z/9cXTKHEc4SYfVFSfWUdF5BSxahs3skbGIOElQ3BIF3slaOaZwsffwF0RRxdhQNGCKQ432baCj/MZJzuwsh4kBC8ktgghGYwQEDbIPAgBGYwQETWAaBCUdgBgeM7xoEZqoAM4v3iHFcVKPrsnMBpZrwww5ztBYTUdUeRCh7BylN17WMLa8JKK7596PeXL19hB0SnGQVgsJ/iNUnynHbirshi+RVgSjliGEx9Yitz42c95iophe9vutpWetNZYgp1wFuaH2SlkMjrval4uwaITWwHoFHfeUP64mtW08+LBbL0A885+Ni4b2DV5ueLlsdqjcWclFwu6jU8tERlcCcqPj2SM1AqfENUuOM1AyUGoNr6vqOGtQs040IJI89D15QzcDdHleCl/cR0BW8iLikE7z4twYvwWOCF09B468dogyjoudsbK0QhbZmNiyNbARtNHzL04yGmrqd5TmCZATDLBi2Z1gz1BTtN3ikJR/B6JViOL5uxRhTsQ1a7GA6fcPwPw9gbwxMayd3UrEGM2v+mIodIDCOQWDUVOwITO+BMfh2MFCTs7+zBGb4p+iJZj2PWCoHxw9xZ0/Xv93kvQ9uTt4/JmQJ1DTsQsxFNaJ+oxF4mw3SkRrRFrx2UAh83SioudV5GVc6NpJg9I0esAPNJKj50pl4FB8L3Pek2NOx4BhXBTVB+h2yFzGdvX/1v7JCYPkaYOhL9OBYuuG4kiLFqRCJgIh+5hsmjhJ+HmxvSdn6cCvW4s8jG91gwrZ1kzFuY72mRL1ZqEpV7yxUDb7ZD9Tc6W+ZmK4yFSPpe9jxdPqhrEt1y8eYGB2gfACD8qEmRtcoqbRjCHmup9OP7rJFe/wB7t2UOgqIAQGZmhMQcC0RmqZlJmZjAApiOxBunnmtC5Rt7v4nb9r4aFUXNVW63A8gTg3sKKj6ftodICHoxK2O5i0gQE2d/rvnznA2KNvObDbX8lB58AblWuo73+F0DD58riRZUYzhKCeGdxpaVltPPFe3ntz7+wGjnpjSE4NfeABq9nWd06ygrP9vbf5/ouJqD1Lu3ac6ioopUTH4jU2g5mT/+HMUk34teBxPt5bcuyN11BJTWhJq0hJRvPzk1ltd4yfN3OU/</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-02-26T11:14:30.583Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.56" etag="2LnF2TCZnuJGSBp-96Oo" version="16.6.4" type="github">
+  <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
+    <mxGraphModel dx="3104" dy="2127" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KQ2dHo-9h0jcCj2v2Y6C-1790" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;strokeWidth=4;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1749" target="1762">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KQ2dHo-9h0jcCj2v2Y6C-1797" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;strokeColor=#000000;strokeWidth=4;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1749" target="1760">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1749" value="Bangsa Indonesia" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#2F5B7C;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;align=center;fontStyle=1;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+          <mxGeometry x="487" y="-160" width="195" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KQ2dHo-9h0jcCj2v2Y6C-1787" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;" edge="1" parent="1" source="1760" target="KQ2dHo-9h0jcCj2v2Y6C-1786">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KQ2dHo-9h0jcCj2v2Y6C-1792" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;strokeWidth=4;" edge="1" parent="1" source="1760" target="KQ2dHo-9h0jcCj2v2Y6C-1791">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1760" value="Orientasi" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#1699d3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+          <mxGeometry x="290" y="-20" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KQ2dHo-9h0jcCj2v2Y6C-1785" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="1762" target="1771">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KQ2dHo-9h0jcCj2v2Y6C-1794" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;strokeWidth=4;" edge="1" parent="1" source="1762" target="KQ2dHo-9h0jcCj2v2Y6C-1795">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="299.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1762" value="Hal yang diperlukan dalam sebuah Bangsa" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#64bbe2;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+          <mxGeometry x="730" y="-15" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KQ2dHo-9h0jcCj2v2Y6C-1798" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;strokeColor=#000000;strokeWidth=4;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1771" target="1772">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KQ2dHo-9h0jcCj2v2Y6C-1799" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;strokeColor=#000000;strokeWidth=4;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="1771" target="1778">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KQ2dHo-9h0jcCj2v2Y6C-1800" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;strokeColor=#000000;strokeWidth=4;" edge="1" parent="1" source="1771" target="1776">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1771" value="Wawasan Kebangsaan" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+          <mxGeometry x="960" y="-15.000000000000114" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1772" value="&lt;div&gt;Sebagaimana yang tercantum dalam pasal 1 angka 1 Permendagri No.71&lt;/div&gt;&lt;div&gt;Tahun 2012 tentang Pedoman Pendidikan Wawasan Kebangsaan yaitu&lt;/div&gt;&lt;div&gt;cara pandang bangsa Indonesia tentang diri dan lingkungannya&lt;/div&gt;&lt;div&gt;mengutamakan persatuan dan kesatuan bangsa serta kesatuan wilayah&lt;/div&gt;&lt;div&gt;yang dilandasi Pancasila, UUD Negara Republik Indonesia 1945,&lt;/div&gt;&lt;div&gt;Bhinneka tunggal ika, dan Negara Kesatuan Republik Indonesia.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+          <mxGeometry x="1150" y="90" width="470" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="1776" value="Maliki (2010, hlm.179) mengungkapkan “pengembangan&lt;br/&gt;wawasan kebangsaan adalah sesuatu yang sangat penting&lt;br/&gt;dalam upaya membangun kohesi sosial ditengah warga&lt;br/&gt;bangsa yang majemuk dan apalagi tengah dibayangi ancaman&lt;br/&gt;konflik etnis dan agama”." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+          <mxGeometry x="1190" y="-35" width="410" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="1778" value="Dalam Kamus Umum Bahasa Indonesia, Badudu-Zain (2001,&#xa;hlm.122;1624.) dijelaskan bahwa; “Wawasan berasal dari kata mawas,&#xa;yang berarti meneliti, meninjau, mengamati, melihat atau memandang.&#xa;Wawasan dapat berarti juga sebagai pandangan atau tinjauan.&#xa;Sedangkan Kebangsaan, adalah ciri-ciri atau identitas yang menandai&#xa;asal bangsanya, atau golongan suatu bangsa”." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+          <mxGeometry x="1150" y="-187.5" width="460" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="KQ2dHo-9h0jcCj2v2Y6C-1786" value="&lt;font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;Republik Indonesia adalah sebuah negara kepulauan&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;terbesar di dunia yang terletak di Asia Tenggara.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;Melintang di khatulistiwa antara benua Asia dan Australia&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;serta antara Samudera Pasifik dan Samudera Hindia.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;Indonesia berbatasan dengan Malaysia di utara pulau&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;Kalimantan, dengan Papua Nugini di timur pulau Papua&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;dan dengan Timor Leste di utara pulau Timor.&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#1699d3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="-80" width="362.5" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="KQ2dHo-9h0jcCj2v2Y6C-1791" value="Indonesia memiliki 18.000 lebih pulau (sekitar 6000 tidak&lt;br/&gt;berpenghuni) yang menyebar sekitar khatulistiwa, &lt;br/&gt;memberikan cuaca tropis. Pulau terpadat penduduknya&lt;br/&gt;adalah pulau Jawa, dimana setengah populasi Indonesia &lt;br/&gt;hidup. Indonesia terdiri dari 5 pulau besar yaitu : Jawa, &lt;br/&gt;Sumatera, Kalimantan, Sulawesi, dan Papua. &lt;br/&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#1699d3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+          <mxGeometry x="170" y="120" width="390" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="KQ2dHo-9h0jcCj2v2Y6C-1802" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;strokeColor=#000000;strokeWidth=4;" edge="1" parent="1" source="KQ2dHo-9h0jcCj2v2Y6C-1795" target="KQ2dHo-9h0jcCj2v2Y6C-1801">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KQ2dHo-9h0jcCj2v2Y6C-1795" value="Jati Diri Bangsa" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=13;fillColor=#67AB9F;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="745" y="149.99999999999977" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KQ2dHo-9h0jcCj2v2Y6C-1804" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontColor=#FFFFFF;strokeColor=#000000;strokeWidth=4;" edge="1" parent="1" source="KQ2dHo-9h0jcCj2v2Y6C-1801" target="KQ2dHo-9h0jcCj2v2Y6C-1803">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KQ2dHo-9h0jcCj2v2Y6C-1805" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#FFFFFF;strokeColor=#000000;strokeWidth=4;" edge="1" parent="1" source="KQ2dHo-9h0jcCj2v2Y6C-1801" target="KQ2dHo-9h0jcCj2v2Y6C-1806">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1040.0000000000005" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KQ2dHo-9h0jcCj2v2Y6C-1801" value="Jatidiri bangsa adalah identitas suatu bangsa&lt;br&gt;yang menjadi pemicu semangat kesinambungan hidup bangsa yang bersangkutan. Demikian pula dengan istilah “jatidiri bangsa Indonesia” adalah identitas bangsa Indonesia yang menjadi pemberi semangat demi kelangsungan hidup bangsa Indonesia. Jatidiri bangsa Indonesia dapat diidentifikasikan melalui citra budaya dan peradaban bangsa Indonesia yang telah ada sebelum bangsa ini ada dan merdeka." style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=13;fillColor=#67AB9F;strokeColor=#82b366;align=center;" vertex="1" parent="1">
+          <mxGeometry x="572.5" y="284" width="465" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="KQ2dHo-9h0jcCj2v2Y6C-1803" value="&lt;div style=&quot;font-size: 12px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Jatidiri bangsa akan tampak dalam karakter bangsa&amp;nbsp;&lt;/font&gt;&lt;span&gt;yang merupakan perwujudan dari nilai-nilai luhur&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;bangsa. Bagi bangsa Indonesia nilai-nilai luhur bangsa&amp;nbsp;&lt;/font&gt;&lt;span&gt;terdapat dalam dasar Negara Kesatuan Republik&amp;nbsp;&lt;/span&gt;&lt;span&gt;Indonesia yakni Pancasila, yang merupakan&amp;nbsp;&lt;/span&gt;&lt;span&gt;pengejawantahan dari konsep religiositas, humanitas,&amp;nbsp;&lt;/span&gt;&lt;span&gt;nasionalitas, sove-reinitas dan sosialitas. Membangun&amp;nbsp;&lt;/span&gt;&lt;span&gt;jatidiri bangsa Indonesia berarti membangun jatidiri&amp;nbsp;&lt;/span&gt;&lt;span&gt;setiap manusia Indonesia, yang tidak lain adalah&amp;nbsp;&lt;/span&gt;&lt;span&gt;membangun manusia pancasila. Jatidiri akan&amp;nbsp;&lt;/span&gt;&lt;span&gt;menampakkan wajahnya dalam bentuk sikap dan&amp;nbsp;&lt;/span&gt;&lt;span&gt;perilaku subyek, individu atau entitas terhadap&lt;/span&gt;&lt;span&gt;tantangan yang dihadapinya.&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=13;fillColor=#67AB9F;strokeColor=#82b366;rounded=0;shadow=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="210" y="490" width="555" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="KQ2dHo-9h0jcCj2v2Y6C-1806" value="&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;Jatidiri bangsa merupakan hal ihwal atau perkara yang&amp;nbsp;&lt;span&gt;sangat esensial dalam kehidupan berbangsa dan bernegara.&amp;nbsp;&lt;/span&gt;&lt;span&gt;Kehilangan jatidiri bangsa sama saja dengan kehilangan&amp;nbsp;&lt;/span&gt;&lt;span&gt;segalanya, bahkan berakibat terleminasi dari bangsabangsa lain. Oleh karena itu, bila kita tetap menghendaki&amp;nbsp;&lt;/span&gt;&lt;span&gt;berdaulat dan dihargai sebagai negara oleh bangsa-bangsa&amp;nbsp;&lt;/span&gt;&lt;span&gt;dalam peraturan internasional, perlu menjaga eksistensi&amp;nbsp;&lt;/span&gt;&lt;span&gt;dan kokohnya jatidiri bangsa. Pengalaman sejarah&amp;nbsp;&lt;/span&gt;&lt;span&gt;menunjukkan bahwa hanya bangsa yang memiliki karakter&amp;nbsp;&lt;/span&gt;&lt;span&gt;yang kokoh dan tangguh mampu mengatasi krisis yang&amp;nbsp;&lt;/span&gt;&lt;span&gt;dihadapi oleh negara dengan berhasil baik. Membangun&amp;nbsp;&lt;/span&gt;&lt;span&gt;jatidiri bangsa Indonesia berarti membangun jatidiri setiap&amp;nbsp;&lt;/span&gt;&lt;span&gt;manusia Indonesia, yang tiada lain adalah membangun&amp;nbsp;&lt;/span&gt;&lt;span&gt;karakter manusia Indonesia.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=12;fontColor=#FFFFFF;fillColor=#67AB9F;" vertex="1" parent="1">
+          <mxGeometry x="880" y="490" width="495" height="160" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
